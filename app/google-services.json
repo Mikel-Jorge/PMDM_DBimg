@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "649110792508",
+    "project_id": "pmdm-dbimg",
+    "storage_bucket": "pmdm-dbimg.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649110792508:android:a031a56fbaf05f3e175639",
+        "android_client_info": {
+          "package_name": "com.pmdm.dbimg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPeaU_Juq327DR88RVqqIerruHvIP-lok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
