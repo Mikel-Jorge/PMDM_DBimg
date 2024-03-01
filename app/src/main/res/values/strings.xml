@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">PMDM_DBimg</string>
+
+    <!-- MAIN -->
+    <string name="main_ejemplo_camara">Ejemplo Camara</string>
+    <string name="main_ejemplo_galeria">Ejemplo Galería</string>
+    <string name="volver">Volver</string>
+
+    <!-- GENERALES -->
 </resources>
