@@ -23,9 +23,20 @@
         android:layout_height="wrap_content"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/main_btn_camara"
+        app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintBottom_toBottomOf="parent"
         android:text="@string/main_ejemplo_galeria"
         android:onClick="goToGaleria"/>
+
+    <Button
+        android:id="@+id/main_btn_mostrar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/main_btn_galeria"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:text="@string/main_mostrar_imagen"
+        android:onClick="goToMostrarImagen"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

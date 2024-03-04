@@ -4,7 +4,12 @@
     <!-- MAIN -->
     <string name="main_ejemplo_camara">Ejemplo Camara</string>
     <string name="main_ejemplo_galeria">Ejemplo Galería</string>
-    <string name="volver">Volver</string>
+    <string name="main_mostrar_imagen">Mostrar Imagen</string>
+
+    <!-- CAMARA -->
+    <string name="camara_take_photo">Foto</string>
 
     <!-- GENERALES -->
+    <string name="volver">Volver</string>
+
 </resources>
